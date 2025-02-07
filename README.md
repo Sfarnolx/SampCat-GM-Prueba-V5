@@ -1,1 +1,1 @@
-# SampCat-GM-Prueba-V5
+# plugins de SampCat   V5
